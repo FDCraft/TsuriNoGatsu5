@@ -1,0 +1,6 @@
+mohist:
+  check_update: false
+  lang: zh_CN
+  libraries:
+    check: true
+    downloadsource: AUTO
