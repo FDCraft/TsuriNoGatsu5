@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:[]
+resourcePacks:["file/Yuushya Release 0.19.0.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/LanguagePack.zip"]
 incompatibleResourcePacks:[]
 lastServer:127.0.0.1:52018
 lang:zh_cn

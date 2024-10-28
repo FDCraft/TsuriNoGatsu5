@@ -61,8 +61,8 @@ craftingTable.remove(<item:minecraft:sandstone>);
 craftingTable.remove(<item:minecraft:red_sandstone>);
 craftingTable.addShapeless("simplesandstone", <item:minecraft:sandstone>, [<item:minecraft:sand>]);
 craftingTable.addShapeless("simpleredsandstone", <item:minecraft:red_sandstone>, [<item:minecraft:red_sand>]);
-craftingTable.addShapeless("simpletuff", <item:minecraft:tuff>, [<item:minecraft:cobblestone>, <tag:items:forge:salt>, <tag:items:forge:salt>]);
-craftingTable.addShapeless("simplecalcite", <item:minecraft:calcite>, [<item:minecraft:cobblestone>, <item:minecraft:bone_meal>, <item:minecraft:bone_meal>]);
+craftingTable.addShapeless("simpletuff", <item:minecraft:tuff> * 2, [<item:minecraft:cobblestone>, <item:supplementaries:ash>]);
+craftingTable.addShapeless("simplecalcite", <item:minecraft:calcite>, [<item:minecraft:cobblestone>, <item:minecraft:bone_meal>]);
 blastFurnace.addRecipe("plankstoash", <item:supplementaries:ash>, <tag:items:minecraft:planks>, 0.1, 150);
 # BANITEM
 craftingTable.remove(<item:l2complements:diffusion_wand>);

@@ -34,7 +34,7 @@ loot_table_blacklist = []
 #list of modids whose loot tables shouldn't be converted (in the format of ["modid", "other_modid"])
 loot_modid_blacklist = []
 #prevent the destruction of Lootr chests except while sneaking in creative mode
-disable_break = true
+disable_break = false
 #allow the destruction of Lootr chests regardless. overrides `disable_break`
 enable_break = false
 #disregard chests and chunks that are outside of the world border; enable this option if you are using a world border and are suffering consistent TPS issues; if you change the world border, you will need to restart your client

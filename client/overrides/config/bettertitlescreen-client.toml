@@ -1,7 +1,7 @@
 
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§d《钓月织梦》§e正式版 §bv5.1.5", "§6用佛系的心，来创作作品。", "§9由普通的网友月见清兰特别驱动！", "§c祝您好运！§a游戏愉快！"]
+	text = ["§d《钓月织梦》§e正式版 §bv5.1.6", "§6用佛系的心，来创作作品。", "§9由普通的网友月见清兰特别驱动！", "§c祝您好运！§a游戏愉快！"]
 
 [versions]
 	#Show which version of Minecraft the client is currently running.
