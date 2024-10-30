@@ -2,8 +2,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "TsuriNoGatsu5",
-  "version": "5.1.5",
-  "author": "TskimiSeiran",
+  "version": "5.1.7",
+  "author": "TskimiSeiran & FDCraft",
   "overrides": "overrides",
   "minecraft": {
     "version": "1.20.1",

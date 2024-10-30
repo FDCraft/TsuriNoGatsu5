@@ -12,7 +12,7 @@
 </a>
 
 <a href="version">
-    <img src="https://img.shields.io/badge/version-5.1.6-8A2BE2" alt="version">
+    <img src="https://img.shields.io/badge/version-5.1.7-8A2BE2" alt="version">
 </a>
 
 </div>

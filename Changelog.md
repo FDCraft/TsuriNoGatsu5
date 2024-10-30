@@ -1,7 +1,70 @@
-# TSNG 5.1.6
+# Changelog
+
+## TSNG 5.1.7
+
+- Common Mods Add:
+  - Iron Chest
+  - Trade Refresh
+  - FTB Ultimine
+  - Spark
+  - Star Light
+  - JEI (EMI does not load recipes correctly)
+  - Octolib
+- Client Mods Add: 
+  - Rubidium Extra
+  - MaFgLib
+  - Tweakerge
+  - Forgematica
+  - Chunk Sending
+- Server Mods Add:
+  - Observable (Client marked as optional because not everyone needs it)
+- Common Mods Remove:
+  - Ore Excavation
+  - Mob Battle (Useless)
+  - Memery Clean
+  - EMI
+  - EMI Trade
+  - Yuushya
+- Client Mods Remove:
+  - Forgified Fabric API
+  - Connectedness
+- Common Mods Update:
+  - Yungs Api
+  - Collective
+  - Resourcefullib
+  - Jade Addon
+  - Tax Free Levels
+  - Create: Stuff Additions
+  - Expanded Storge
+  - Functional Storge
+  - Moog's End Structures
+  - Moog's Nether Structures
+  - Moog's Voyager Structures
+  - Nerb
+- Client Mods Update:
+  - Entity Culling
+  - Neat
+  - Jecharacters
+- Common Config Change:
+  - Starter Kit: Add Eternium Hoe
+  - L2 Backpack: initialRows Change to 8, startupBackpackCondition Change to 1
+  - Solcarrot: baseHeart change to 4
+- Client Config Change:
+  - Full Grown Crop Marker: fix every offset to 0, color to greenS
+- Resource packs Add:
+  - Ravage & Cabbage: add zh_cn.json
+- Optional Resource packs Add: 
+  - Mandala's GUI - Dark Mode Compat
+  - Mandala's GUI - Dark Mode TSNG Compat
+    - Crock Pot
+    - L2backpack
+    - L2complements
+    - Youkai‘s Homecoming
+    - Caupona cannot change because unique GUI 
+
+## TSNG 5.1.6
 
 - Common Mods Add: 
-
   - Create: Balanced Flight (Angel Ring)
   - Create: Crystal Clear
   - Create: Enchantment Industry
@@ -20,41 +83,34 @@
   - FTB Essentials
   - AllMusic
 - Client Mods Add: 
-
   - Full Grown Crop Marker (The config waiting for update)
   - Forgified Fabric API
   - Connectedness
   - Forge Auto Fish
   - libIPN
   - IPN
-  - Simply Create Model Mod
+  - Simply Create Model
   - Jecharacters
 - Common Mods Remove: 
-
-  - AlwaysEat
+  - Always Eat
   - Let me despawn
   - Par cool
   - JEI (Replaced by EMI)
 - Client Mods Remove
-
   - Simple Heart Bar
 - Common Config Change:
   - Solcarrot: baseHeart change to 5, milestones added, minimumFoodValue change to 1
   - Caupona: BathExperience change to 5, BathGetExpChance change to 0.05
 - Recipes Change: 
-
   - Tuff
   - Calcite
 - Optional Resource packs Add: 
-
   - Yuushya
   - Mandala's GUI Modded Dakmode
 - Fix: 
-
   - Openloader resourcepack does not include
 
-
-## Waiting for update
+### Waiting for update
 
 - The Config of Full Grown Crop Marker still wait for update
 - ~~Whether More columns of Curios need to be tested~~ No more needed 

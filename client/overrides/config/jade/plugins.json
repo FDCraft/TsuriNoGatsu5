@@ -2,7 +2,7 @@
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": false,
+    "harvest_tool.show_unbreakable": true,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "item_storage.normal_amount": 9,
@@ -21,7 +21,7 @@
     "mob_growth": true,
     "harvest_tool.new_line": false,
     "entity_health.max_for_render": 40,
-    "entity_health.show_fractions": false,
+    "entity_health.show_fractions": true,
     "mob_spawner": true,
     "redstone": true,
     "fluid_storage": true,
@@ -33,10 +33,10 @@
     "beehive": true,
     "item_storage.detailed_amount": 54,
     "player_head": true,
-    "block_states": false,
+    "block_states": true,
     "lectern": true,
     "entity_armor": true,
-    "harvest_tool.creative": false,
+    "harvest_tool.creative": true,
     "horse_stats": true,
     "item_tooltip": true,
     "entity_health": true,
@@ -53,13 +53,18 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "crockpot": {
+    "birdcage": true,
+    "crock_pot": true
+  },
   "touhou_little_maid": {
     "maid": true,
     "shrine_lamp": true
   },
   "delightful": {
     "crop_progress": true,
-    "pie_icons": true
+    "pie_icons": true,
+    "mushroom_colony": true
   },
   "supplementaries": {
     "hat_stand": true
@@ -69,18 +74,18 @@
     "distance": false,
     "block_face": false,
     "coordinates": false,
-    "registry_name": "OFF",
+    "registry_name": "ADVANCED_TOOLTIPS",
     "mod_name": true
   },
   "create": {
     "filter": true,
     "backtank_capacity": true,
     "goggles.requires_goggles": true,
-    "goggles": false,
+    "goggles": true,
     "blaze_burner": true,
     "exact_block": true,
     "crafting_blueprint": true,
-    "goggles.detailed": false,
+    "goggles.detailed": true,
     "placard": true
   },
   "lootr": {

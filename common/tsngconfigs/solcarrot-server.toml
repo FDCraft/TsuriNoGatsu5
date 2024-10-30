@@ -2,7 +2,7 @@
 [milestones]
 	#Number of hearts you start out with.
 	#Range: 0 ~ 1000
-	baseHearts = 5
+	baseHearts = 4
 	#Number of hearts you gain for reaching a new milestone.
 	#Range: 0 ~ 1000
 	heartsPerMilestone = 1
