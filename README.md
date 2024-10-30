@@ -8,7 +8,7 @@
 # Tsuri No Gatsu5
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/FDCraft/TsuriNoGatsu5.svg" alt="license">
+    <img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-8A2BE2" alt="license">
 </a>
 
 <a href="version">
